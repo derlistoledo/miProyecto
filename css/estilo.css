@@ -1,0 +1,61 @@
+html{
+	background: #0001;
+	font-family:time new roman;
+
+}
+	body{
+		width: 70%
+		height: 70px;
+		margin: 70px;
+		padding: 70px;
+		border: 0.1px solid #0001;
+		background: #0001;
+	
+	}
+	h1{
+		text-align: center;
+	}
+
+    h2{
+    	text-align: right;
+    	width: 50%;
+    }
+
+	h3{
+		text-align: center;
+	}
+
+div{
+	width: 30%;
+	text-align:left;
+	margin:2px;
+	background:#0001;
+	padding: 1px;
+	border: 0.1px solid #0001;
+
+
+}
+img{
+	width: 8%;
+}
+
+ul{
+	    width: 50%
+		height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
